@@ -3,7 +3,7 @@
 <h2 align="center"> I am Karandeep Singh, Full Stack Developer, looking forward to contribute to projects</h2>
 
 _______________
-- 🔭 I’m currently a Student.
+- 🔭 I’m working in viewlift.
 - 🌱 I’m currently learning 3D Designing.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me: mksingh301992gmail.com
