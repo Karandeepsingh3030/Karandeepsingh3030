@@ -6,7 +6,7 @@ _______________
 - 🔭 I’m working in viewlift.
 - 🌱 I’m currently learning 3D Designing.
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 📫 How to reach me: mksingh301992gmail.com
+- 📫 How to reach me: karandeepsinghworkspace@gmail.com
 
 _______________
 
